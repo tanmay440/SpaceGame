@@ -379,9 +379,11 @@ m_ResolvedPackages:
     - 1.13.0
     - 1.13.1
     - 1.14.0
+    - 1.14.1
     compatible:
     - 1.14.0
-    recommended: 1.14.0
+    - 1.14.1
+    recommended: 1.14.1
     deprecated: []
   dependencies:
   - name: com.unity.modules.uielements

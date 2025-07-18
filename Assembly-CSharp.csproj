@@ -46,9 +46,16 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.51f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\FlyingCamera.cs" />
+    <Compile Include="Assets\Scripts\PlanetGravity.cs" />
+    <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Compile Include="Assets\Scripts\GravityAttractor.cs" />
     <Compile Include="Assets\Scripts\GravityBody.cs" />
+    <Compile Include="Assets\Scripts\planetGenerator.cs" />
+    <Compile Include="Assets\Scripts\MarchingSquaresTerraingen.cs" />
+    <Compile Include="Assets\Scripts\PlanetChunkManager.cs" />
     <Compile Include="Assets\Scripts\Controller.cs" />
+    <None Include="Assets\Shaders\TerrainShader.shader" />
     <None Include="Assets\DiverseSpace\Diverse Space Skybox Readme.txt" />
     <Reference Include="UnityEngine">
       <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.51f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>

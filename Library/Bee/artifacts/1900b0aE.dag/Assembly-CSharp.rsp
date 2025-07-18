@@ -401,8 +401,14 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.51f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.51f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
 "Assets/Scripts/Controller.cs"
+"Assets/Scripts/FlyingCamera.cs"
 "Assets/Scripts/GravityAttractor.cs"
 "Assets/Scripts/GravityBody.cs"
+"Assets/Scripts/MarchingSquaresTerraingen.cs"
+"Assets/Scripts/PlanetChunkManager.cs"
+"Assets/Scripts/planetGenerator.cs"
+"Assets/Scripts/PlanetGravity.cs"
+"Assets/Scripts/PlayerController.cs"
 -langversion:9.0
 /deterministic
 /optimize+
